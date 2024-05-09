@@ -1,9 +1,5 @@
 
-# DS/AI 부트캠프 - 개인 프로젝트 개요
-(최신순)
-
-
-## [다섯 번째 프로젝트]: 이진 분류 인공신경망 프로그래밍 (from Scratch)
+## [5th 프로젝트]: 이진 분류 인공신경망 프로그래밍 (from Scratch)
 - 작성: 2023년 1월 13일   
 - 코드 파일: [my_proejct5_code.ipynb](https://github.com/kongju7/my_project5/blob/main/my_project5_code.ipynb)
 
